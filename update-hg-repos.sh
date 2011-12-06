@@ -1,8 +1,8 @@
 #! /bin/bash
 cd ~/vimwiki
-hg add
-hg commit -m "regular update"
-hg push
+git add .
+git commit -m "regular update"
+git push
 cd ~/.dotfiles
 hg add
 hg commit -m "regular update"
