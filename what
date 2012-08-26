@@ -20,18 +20,8 @@
 [33m[submodule "bundle/vim-colors-solarized"][m
     [1m[36murl[m = https://github.com/altercation/vim-colors-solarized.git
 [33m[submodule "bundle/rails"][m
-[1m[7m1   config [gitconfig]                               0x5B      1,1           Top]2;config (~/.vim/.git) - VIM]1;config[1;1H[?12l[?25h[?25l[m[24;70Hj[1;1H[24;70H [2;4H[1;1H[33m[core][m[23;56H[1m[7m9       2,1-4[2;4H[?12l[?25h[?25l[m[24;70H^M[2;4H[24;70H  [3;5H[23;56H[1m[7m66      3,2-5 [3;5H[?12l[?25h[?25l[m[24;70H^C[3;5H[24;1HType  :quit<Enter>  to exit Vim[24;70H[K[3;5H[?12l[?25h[?25l[24;70H^C[3;5H[24;70H[K[3;5H[?12l[?25h[?25l[24;70Hj[3;5H[24;70H [4;5H[23;57H[1m[7m2      4,[4;5H[?12l[?25h[?25l[m[24;70Hk[4;5H[24;70H [3;5H[23;57H[1m[7m6      3,[3;5H[?12l[?25h[?25l[m[24;70Hj[3;5H[24;70H [4;5H[23;57H[1m[7m2      4,[4;5H[?12l[?25h[?25l[m[24;70Hj[4;5H[24;70H [5;5H[23;57H[1m[7mC      5,[5;5H[?12l[?25h[?25l[m[24;70Hk[5;5H[24;70H [4;5H[23;57H[1m[7m2      4,[4;5H[?12l[?25h[?25l[m[24;70H:[4;5H[24;1H[K[24;1H:[?12l[?25hq[?25l[?12l[?25h[?25l:!~/.vim/update-repos.sh
+[1m[7m1   config [gitconfig]                               0x5B      1,1           Top]2;config (~/.vim/.git) - VIM]1;config[1;1H[?12l[?25h[?25l[m[24;70Hq[1;1H[?12l[?25h[?25l[24;71H^C[1;1H[24;70H   [1;1H[?12l[?25h[?25l[24;70Hj[1;1H[24;70H [2;4H[1;1H[33m[core][m[23;56H[1m[7m9       2,1-4[2;4H[?12l[?25h[?25l[m[24;70Hj[2;4H[24;70H [3;4H[23;64H[1m[7m3,[3;4H[?12l[?25h[?25l[m[24;70Hk[3;4H[24;70H [2;4H[23;64H[1m[7m2,[2;4H[?12l[?25h[?25l[m[24;70H:[2;4H[24;1H[K[24;1H:[?12l[?25hq[?25l[?12l[?25h[?25l:!~/.vim/update-repos.sh
 [?12l[?25h# On branch master
 # Your branch is ahead of 'origin/master' by 6 commits.
 #
 nothing to commit (working directory clean)
-[master 7f10456] regular update
- 1 files changed, 27 insertions(+), 0 deletions(-)
- create mode 100644 what
-# On branch master
-# Your branch is ahead of 'origin/master' by 12 commits.
-#
-nothing to commit (working directory clean)
-
-shell returned 1
-]2;config (~/.vim/.git) - VIM]1;config]2;yining@yining-laptop: ~/.vim]1;yining@yining-laptop: ~/.vim[m[?1l>[?1049l
