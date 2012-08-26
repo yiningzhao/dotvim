@@ -1,0 +1,27 @@
+[?1049h[?1h=[1;24r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[24;1H"config" 45L, 1623C[1;1H[33m[46m[[m[33mcore[m[33m[46m][m
+    [1m[36mrepositoryformatversion[m = [38;5;130m0[m
+    [1m[36mfilemode[m = [38;5;130mtrue[m
+    [1m[36mbare[m = [38;5;130mfalse[m
+    [1m[36mlogallrefupdates[m = [38;5;130mtrue[m
+[33m[remote "origin"][m
+    [1m[36murl[m = git@github.com:yiningzhao/dotvim.git
+    [1m[36mfetch[m = +refs/heads/*:refs/remotes/origin/*
+[33m[branch "master"][m
+    [1m[36mremote[m = origin
+    [1m[36mmerge[m = refs/heads/master
+[33m[submodule "bundle/command-t"][m
+    [1m[36murl[m = https://github.com/wincent/Command-T.git
+[33m[submodule "bundle/fugitive"][m
+    [1m[36murl[m = http://github.com/tpope/vim-fugitive.git
+[33m[submodule "bundle/repeat"][m
+    [1m[36murl[m = https://github.com/tpope/vim-repeat.git
+[33m[submodule "bundle/surround"][m
+    [1m[36murl[m = https://github.com/tpope/vim-surround.git
+[33m[submodule "bundle/vim-colors-solarized"][m
+    [1m[36murl[m = https://github.com/altercation/vim-colors-solarized.git
+[33m[submodule "bundle/rails"][m
+[1m[7m1   config [gitconfig]                               0x5B      1,1           Top]2;config (~/.vim/.git) - VIM]1;config[1;1H[?12l[?25h[?25l[m[24;70Hj[1;1H[24;70H [2;4H[1;1H[33m[core][m[23;56H[1m[7m9       2,1-4[2;4H[?12l[?25h[?25l[m[24;70H^M[2;4H[24;70H  [3;5H[23;56H[1m[7m66      3,2-5 [3;5H[?12l[?25h[?25l[m[24;70H^C[3;5H[24;1HType  :quit<Enter>  to exit Vim[24;70H[K[3;5H[?12l[?25h[?25l[24;70H^C[3;5H[24;70H[K[3;5H[?12l[?25h[?25l[24;70Hj[3;5H[24;70H [4;5H[23;57H[1m[7m2      4,[4;5H[?12l[?25h[?25l[m[24;70Hk[4;5H[24;70H [3;5H[23;57H[1m[7m6      3,[3;5H[?12l[?25h[?25l[m[24;70Hj[3;5H[24;70H [4;5H[23;57H[1m[7m2      4,[4;5H[?12l[?25h[?25l[m[24;70Hj[4;5H[24;70H [5;5H[23;57H[1m[7mC      5,[5;5H[?12l[?25h[?25l[m[24;70Hk[5;5H[24;70H [4;5H[23;57H[1m[7m2      4,[4;5H[?12l[?25h[?25l[m[24;70H:[4;5H[24;1H[K[24;1H:[?12l[?25hq[?25l[?12l[?25h[?25l:!~/.vim/update-repos.sh
+[?12l[?25h# On branch master
+# Your branch is ahead of 'origin/master' by 6 commits.
+#
+nothing to commit (working directory clean)
