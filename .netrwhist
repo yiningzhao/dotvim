@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =4
 let g:netrw_dirhist_1='/home/yining/.vim'
 let g:netrw_dirhist_2='/home/yining/yummyplants-backup/wp-content/themes/yp_theme'
 let g:netrw_dirhist_3='/var/www/yummyplants/wp-content/themes/yp_theme'
+let g:netrw_dirhist_4='/var/www/yummyplants/wp-content/plugins/theme-my-login'
